@@ -1,0 +1,9 @@
+c:\users\sgopinathan\documents\visual studio 2015\Projects\TextToSpeech\TextToSpeech\bin\Release\TextToSpeech.exe.config
+c:\users\sgopinathan\documents\visual studio 2015\Projects\TextToSpeech\TextToSpeech\bin\Release\TextToSpeech.exe
+c:\users\sgopinathan\documents\visual studio 2015\Projects\TextToSpeech\TextToSpeech\bin\Release\TextToSpeech.pdb
+c:\users\sgopinathan\documents\visual studio 2015\Projects\TextToSpeech\TextToSpeech\bin\Release\Newtonsoft.Json.dll
+c:\users\sgopinathan\documents\visual studio 2015\Projects\TextToSpeech\TextToSpeech\bin\Release\RestSharp.dll
+c:\users\sgopinathan\documents\visual studio 2015\Projects\TextToSpeech\TextToSpeech\bin\Release\Newtonsoft.Json.xml
+c:\users\sgopinathan\documents\visual studio 2015\Projects\TextToSpeech\TextToSpeech\obj\Release\TextToSpeech.exe
+c:\users\sgopinathan\documents\visual studio 2015\Projects\TextToSpeech\TextToSpeech\obj\Release\TextToSpeech.pdb
+C:\Users\sgopinathan\Documents\Visual Studio 2015\Projects\TextToSpeech\TextToSpeech\obj\Release\TextToSpeech.csprojResolveAssemblyReference.cache
